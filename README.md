@@ -11,6 +11,5 @@ Open the project in Unity **6000.6.6f1**, choose a scene below, then press **Pla
 - [Why Impact Marks Need a Surface Normal | Unity](Assets/Demos/WhyImpactMarksNeedASurfaceNormal/WhyImpactMarksNeedASurfaceNormal.unity) · [Watch the Short](https://www.youtube.com/shorts/fuuN0m1Wm5A)
 - [Cut a Gap in Fog | CS2-Inspired Unity VFX](Assets/Demos/CutAGapInFog/CutAGapInFog.unity) · [Watch the Short](https://www.youtube.com/shorts/Kj5RjkaEU_c)
 
-The Celeste demo has **Preview correction off** and **Preview correction on** options in the demo controller's Inspector menu during Play.
 
 TextMesh Pro resources are from Unity's uGUI package. The Liberation Sans license is included with the font.
