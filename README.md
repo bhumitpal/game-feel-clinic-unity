@@ -2,7 +2,7 @@
 
 Playable Unity demos from Game Feel Clinic Shorts.
 
-Open the project in Unity **6000.6.6f1**, choose a scene below, then press **Play**. The demos run automatically.
+Open the project in Unity **6000.6.6f1**, choose a scene below or browse [all demo folders](Assets/Demos), then press **Play**. The demos run automatically.
 
 - [Celeste's Tiny Jump Fix: Corner Correction in Unity (C#)](Assets/Demos/CelestesTinyJumpFix/CelestesTinyJumpFix.unity) · [Watch the Short](https://www.youtube.com/shorts/mSeUjRDEMfk)
 - [Stop Lock-On Target Hopping in Unity | C#](Assets/Demos/StopLockOnTargetHopping/StopLockOnTargetHopping.unity) · [Watch the Short](https://www.youtube.com/shorts/BfHZoYqrgiI)
@@ -10,6 +10,7 @@ Open the project in Unity **6000.6.6f1**, choose a scene below, then press **Pla
 - [Why CS2's Radar Changes Zoom | Unity UI](Assets/Demos/WhyCS2RadarChangesZoom/WhyCS2RadarChangesZoom.unity) · [Watch the Short](https://www.youtube.com/shorts/LQRw3Tg62qw)
 - [Why Impact Marks Need a Surface Normal | Unity](Assets/Demos/WhyImpactMarksNeedASurfaceNormal/WhyImpactMarksNeedASurfaceNormal.unity) · [Watch the Short](https://www.youtube.com/shorts/fuuN0m1Wm5A)
 - [Cut a Gap in Fog | CS2-Inspired Unity VFX](Assets/Demos/CutAGapInFog/CutAGapInFog.unity) · [Watch the Short](https://www.youtube.com/shorts/Kj5RjkaEU_c)
-
+- [Why That Fishing Bite Feels So Clear | Unity VFX](Assets/Demos/WhyThatFishingBiteFeelsSoClear/WhyThatFishingBiteFeelsSoClear.unity) · [Watch the Short](https://www.youtube.com/shorts/myv44IGBhVQ)
+- [Make a Unity Follow Camera Bank with the Track](Assets/Demos/MakeAUnityFollowCameraBankWithTheTrack/MakeAUnityFollowCameraBankWithTheTrack.unity) · [Watch the Short](https://www.youtube.com/shorts/r01reElGaTU)
 
 TextMesh Pro resources are from Unity's uGUI package. The Liberation Sans license is included with the font.
