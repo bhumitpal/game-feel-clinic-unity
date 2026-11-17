@@ -17,5 +17,7 @@ Open the project in Unity **6000.6.6f1**, choose a scene below or browse [all de
 - [Keep tire tracks evenly spaced through speed changes](Assets/Demos/KeepTireTracksEvenlySpacedThroughSpeedChanges/KeepTireTracksEvenlySpacedThroughSpeedChanges.unity) · [Watch the Short](https://www.youtube.com/shorts/ljliFDHSkAM)
 - [Keep a conveyor splitter moving when one exit jams](Assets/Demos/KeepAConveyorSplitterMovingWhenOneExitJams/KeepAConveyorSplitterMovingWhenOneExitJams.unity) · [Watch the Short](https://www.youtube.com/shorts/G811uoyN3cs)
 - [Keep feet planted on moving platforms in Unity](Assets/Demos/KeepFeetPlantedOnMovingPlatformsInUnity/KeepFeetPlantedOnMovingPlatformsInUnity.unity) · [Watch the Short](https://www.youtube.com/shorts/hDh24qP8f7g)
+- [Keep offscreen warnings pointing at the right spot in Unity](Assets/Demos/KeepOffscreenWarningsPointingAtTheRightSpotInUnity/KeepOffscreenWarningsPointingAtTheRightSpotInUnity.unity) · [Watch the Short](https://www.youtube.com/shorts/E7MuNghJah0)
+- [Keep Machine Impacts in Sync When Animation Speed Changes](Assets/Demos/KeepMachineImpactsInSyncWhenAnimationSpeedChanges/KeepMachineImpactsInSyncWhenAnimationSpeedChanges.unity) · [Watch the Short](https://www.youtube.com/shorts/gW2Pzp7ssGU)
 
 TextMesh Pro resources are from Unity's uGUI package. The Liberation Sans license is included with the font.
