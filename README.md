@@ -2,7 +2,7 @@
 
 Playable Unity demos from Game Feel Clinic Shorts.
 
-Open the project in Unity **6000.6.6f1**, choose a scene below or browse [all demo folders](Assets/Demos), then press **Play**. The demos run automatically.
+Open the project in Unity **6000.6.6f1**, choose a scene below or browse [all demo folders](Assets/Demos), then press **Play** for the runtime demos. They run automatically.
 
 - [Celeste's Tiny Jump Fix: Corner Correction in Unity (C#)](Assets/Demos/CelestesTinyJumpFix/CelestesTinyJumpFix.unity) · [Watch the Short](https://www.youtube.com/shorts/mSeUjRDEMfk)
 - [Stop Lock-On Target Hopping in Unity | C#](Assets/Demos/StopLockOnTargetHopping/StopLockOnTargetHopping.unity) · [Watch the Short](https://www.youtube.com/shorts/BfHZoYqrgiI)
@@ -19,5 +19,12 @@ Open the project in Unity **6000.6.6f1**, choose a scene below or browse [all de
 - [Keep feet planted on moving platforms in Unity](Assets/Demos/KeepFeetPlantedOnMovingPlatformsInUnity/KeepFeetPlantedOnMovingPlatformsInUnity.unity) · [Watch the Short](https://www.youtube.com/shorts/hDh24qP8f7g)
 - [Keep offscreen warnings pointing at the right spot in Unity](Assets/Demos/KeepOffscreenWarningsPointingAtTheRightSpotInUnity/KeepOffscreenWarningsPointingAtTheRightSpotInUnity.unity) · [Watch the Short](https://www.youtube.com/shorts/E7MuNghJah0)
 - [Keep Machine Impacts in Sync When Animation Speed Changes](Assets/Demos/KeepMachineImpactsInSyncWhenAnimationSpeedChanges/KeepMachineImpactsInSyncWhenAnimationSpeedChanges.unity) · [Watch the Short](https://www.youtube.com/shorts/gW2Pzp7ssGU)
+- [Drop Props into Place with Physics in the Unity Editor](Assets/Demos/DropPropsIntoPlaceWithPhysicsInTheUnityEditor/DropPropsIntoPlaceWithPhysicsInTheUnityEditor.unity) · [Watch the Short](https://www.youtube.com/shorts/JZl7AJ79G4o)
+
+### Edit Mode physics drop
+
+Keep the courtyard scene in Edit Mode. Select individual props under **Environment → Drop Set**, then choose **Tools → Drop Selected With Physics**. The nearby display props hold still while the selection settles. Press **Ctrl+Z** to restore the starting poses.
+
+The courtyard uses [Poly Haven CC0 assets](https://polyhaven.com/license). Its original crates stand in for the Fab Megascans asset shown in the Short. [Historic Miscellaneous Crate Wood Old 03](https://www.fab.com/listings/97941e10-431c-4f1f-a9cf-83e21ea5cf8e)
 
 TextMesh Pro resources are from Unity's uGUI package. The Liberation Sans license is included with the font.
